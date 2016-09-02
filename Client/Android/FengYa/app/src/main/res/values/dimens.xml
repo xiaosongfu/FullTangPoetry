@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <!-- 诗人界面 -->
+    <dimen name="poet_item_height">80dp</dimen>
+    <dimen name="poet_item_margin">8dp</dimen>
+    <dimen name="poet_recycle_padding">8dp</dimen>
+
+
+
+    <!-- 诗界面 -->
+    <dimen name="poetry_item_height">80dp</dimen>
+    <dimen name="poetry_item_margin">10dp</dimen>
+    <dimen name="poetry_recycle_padding">6dp</dimen>
+</resources>
